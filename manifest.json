@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Extract & Save recipe to Megroplan!",
-    "description": "This extension allows you to easily extract & save web recipe to Megroplan!",
+    "name": "Recipe scraper for Megroplan",
+    "description": "This extension allows you to easily extract & save recipes of a website to Megroplan!",
     "version": "1.0",
     "icons": {
     	"48": "ui/img/logo.png"
