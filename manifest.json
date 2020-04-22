@@ -1,17 +1,17 @@
 {
     "manifest_version": 2,
     "name": "Recipe scraper for Megroplan",
-    "description": "This extension allows you to easily extract & save recipes of a website to Megroplan!",
+    "description": "This extension allows you to easily extract & save recipes from any website to Megroplan!",
     "version": "1.0",
     "icons": {
-    	"48": "ui/img/logo.png"
+    	"48": "src/ui/img/logo-firefox.png"
     },
     "browser_action": {
     	"browser_style": true,
-    	"default_popup": "ui/popup.html",
+    	"default_popup": "src/ui/popup.html",
     	"default_icon": {
-        	"16": "ui/img/logo.png",
-        	"32": "ui/img/logo.png"
+        	"16": "src/ui/img/logo-firefox.png",
+        	"32": "src/ui/img/logo-firefox.png"
    		}
     },
     "applications": {
